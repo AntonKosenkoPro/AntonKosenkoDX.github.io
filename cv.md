@@ -38,14 +38,14 @@ I’m seeking opportunities to lead ambitious engineering teams, scale developme
 Managed three distributed cross-functional R&D teams, totaling 40+ engineers (10–15 per team), driving innovation and strategic execution across multiple product lines.
 
 Key contributions:
-- Led the development and implementation of the tribe's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste
+- Led the development and implementation of the cluster's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste
 - Led non-AI feature development, such as a fully functional MAUI PDF Viewer, cross-platform templates, accessibility (A11Y) improvements
 - Hired and onboarded manager for the MAUI Team, marking the company's first experience with managerial recruitment
 - Actively participated in hiring and improving hiring and onboarding processes. Conducted over 100 interviews, hired or participated in the hiring of over 20 engineers
 - Pioneered international hiring by recruiting first non-Russian-speaking employees in Hungary, Romania, and Serbia
-- Designed and maintained the tribe's strategy using Balanced Scorecard framework
-- Built a cross-functional management team to drive execution of the tribe's strategic goals
-- Reduced annual tribe maintenance costs by 20% through process optimizations
+- Designed and maintained the cluster's strategy using Balanced Scorecard framework
+- Built a cross-functional management team to drive execution of the cluster's strategic goals
+- Reduced annual cluster maintenance costs by 20% through process optimizations
 - Transformed teams from Russian-speaking into multicultural, English-speaking teams
 - Maintained team performance and retained 100% of key talent throughout the transformation
 
