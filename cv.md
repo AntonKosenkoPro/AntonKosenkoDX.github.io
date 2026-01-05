@@ -63,7 +63,8 @@ Responsibilities:
 Managed cross-functional team of 10-15 professionals.
 
 Key contributions:
-- Migrated corporate CRM and ERP systems to microservices architecture and moved them to Azure hybrid cloud from on-premise deployment
+- Migrated corporate CRM and ERP systems to microservices architecture
+- Moved several internal web-applications to Azure hybrid cloud from on-premise deployment
 - Launched full-featured MAUI UI components suite with industry-leading quality, outperforming competitors
 - Boosted team productivity by 4x: Delivered double the output with 50% fewer developers via Scrum adoption, dedicated support roles, and performance tracking
 - Led the relocation of 13-person team from Russia to Armenia, achieving 70% retention rate (highest organization-wide)
@@ -86,7 +87,7 @@ Responsibilities:
 ### Software Developer @ KartsUp
 *Oct 2017 - May 2020*
 
-- Developed comprehensive git-like version control and tracking services for architectural bureaus
+- Developed comprehensive git-like version control and tracking software for architectural bureaus using microservices architecture
 - Developed complex CAD automation system for MEP (Mechanical, electrical, and plumbing) design in large-scale building projects as Autodesk Revit add-in
 - Developed Licensing & Distribution service using WPF and WCF
 - Contributed to cladding work automation in Autodesk Revit
@@ -101,8 +102,8 @@ Responsibilities:
 Technical
 - Main stack: .NET / C#
 - Secondary stack (Commercial use): Java, Kotlin, Objective-C, Swift, C++, JS, Python
-- Frameworks and platforms: ASP.NET Core, WPF, MAUI, Android, iOS
-- CI/CD: TeamCity, GitHub, GitLab, Azure Pipelines, Azure Cloud, Docker
+- Technologies and frameworks: ASP.NET Core, Kafka, RabbitMQ, Redis, PostgreSQL, WPF, MAUI, Android, iOS
+- CI/CD: Docker, Docker Compose, Kubernetes, Azure Cloud, 
 
 Managerial:
 - Agile project management, Software Development Life Cycle (SDLC): Scrum, Kanban, XP, Waterfall
@@ -111,7 +112,7 @@ Managerial:
 - Process management & optimization
 - Hiring, firing and onboarding
 - Employee motivation
-- Tools: Jira, Confluence, Trello
+- Tools: Jira, Confluence
 
 Languages:
 - Russian - Native
