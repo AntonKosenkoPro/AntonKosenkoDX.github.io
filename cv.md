@@ -26,16 +26,14 @@
 
 Engineering Manager with 8 years of hands-on experience in backend and mobile development and 4 years in engineering leadership. I specialize in building high-performing teams from the ground up, elevated existing teams' performance, and driving large-scale organizational and technical changes aligned with company strategy.
 
-My key strengths include a deep commitment to product quality, strong attention to detail, and the ability to navigate teams through complex and high-pressure environments. I’ve consistently helped teams not only survive challenges but emerge stronger and more effective.
-
-I’m seeking opportunities to lead ambitious engineering teams, scale development processes, and deliver impactful technological solutions that drive real business value.
+My key strengths include a deep commitment to product quality, strong attention to detail, and the ability to navigate teams through complex and high-pressure environments. I’ve consistently led teams through challenges becoming stronger and more effective.
 
 ## Experience
 
 ### Senior Engineering Manager, Cluster Lead @ Developer Express, Inc.
 *Mar 2024 - Aug 2025*
 
-Managed three distributed cross-functional R&D teams, totaling 40+ engineers (10–15 per team), driving innovation and strategic execution across multiple product lines.
+Managed three distributed cross-functional (developers, designers, technical writers, support developers, product manager) R&D teams with 40+ engineers (10–15 per team), driving development and company strategy execution across multiple product lines.
 
 Key contributions:
 - Led the development and implementation of the cluster's first AI features across all product lines (WinForms, WPF, MAUI), including an LLM integration API, AI chat, and Smart Paste
@@ -46,8 +44,7 @@ Key contributions:
 - Designed and maintained the cluster's strategy using Balanced Scorecard framework
 - Built a cross-functional management team to drive execution of the cluster's strategic goals
 - Reduced annual cluster maintenance costs by 20% through process optimizations
-- Transformed teams from Russian-speaking into multicultural, English-speaking teams
-- Maintained team performance and retained 100% of key talent throughout the transformation
+- Transformed teams from Russian-speaking into multicultural, multinational, English-speaking teams. Maintained team performance and retained 100% of key talent throughout the transformation
 
 Responsibilities:
 - Defining cluster strategy, setting and updating goals, ensuring their achievement
@@ -106,7 +103,7 @@ Technical
 - CI/CD: Docker, Docker Compose, Kubernetes, Azure Cloud, 
 
 Managerial:
-- Agile project management, Software Development Life Cycle (SDLC): Scrum, Kanban, XP, Waterfall
+- Agile project management, Software Development Life Cycle (SDLC), Scrum, Kanban, XP, Waterfall
 - Performance Appraisal: Performance Review, Personal Goals, PDP, PIP, Continuous Feedback, 1:1
 - Change management: Prosci ADKAR, Kotter
 - Process management & optimization
