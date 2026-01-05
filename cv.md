@@ -100,7 +100,7 @@ Technical
 - Main stack: .NET / C#
 - Secondary stack (Commercial use): Java, Kotlin, Objective-C, Swift, C++, JS, Python
 - Technologies and frameworks: ASP.NET Core, Kafka, RabbitMQ, Redis, PostgreSQL, WPF, MAUI, Android, iOS
-- CI/CD: Docker, Docker Compose, Kubernetes, Azure Cloud, 
+- Cloud and tools: Azure, Docker, Docker Compose, Kubernetes, Github Actions, Teamcity
 
 Managerial:
 - Agile project management, Software Development Life Cycle (SDLC), Scrum, Kanban, XP, Waterfall
