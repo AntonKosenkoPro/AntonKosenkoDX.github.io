@@ -98,8 +98,8 @@ Responsibilities:
 ## Skills
 Technical
 - Main stack: .NET / C#
-- Secondary stack (Commercial use): Java, Kotlin, Objective-C, Swift, C++, JS, Python
-- Technologies and frameworks: ASP.NET Core, Kafka, RabbitMQ, Redis, PostgreSQL, WPF, MAUI, Android, iOS
+- Secondary stack (Commercial use): Java, Kotlin, Go, PHP, Python
+- Technologies and frameworks: Kafka, RabbitMQ, Redis, PostgreSQL, WPF, MAUI, Android, iOS
 - Cloud and tools: Azure, Docker, Docker Compose, Kubernetes, Github Actions, Teamcity
 
 Managerial:
